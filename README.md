@@ -9,19 +9,33 @@ Author: Nensi Ray
 </p>
 📋 Table of Contents
 - 📌 Overview
+
 - 🎯 Problem Statement
+- 
 - ✨ Key Features
+- 
 - 🏗️ Project Structure
+- 
 - 🔄 Dashboard Workflow
+- 
 - 📊 Part A --- Business Overview
+- 
 - 🛍️ Part B --- Product Analysis
+- 
 - 🔍 Key Insights
+- 
 - 🛠️ Tech Stack
+- 
 - 📈 Results & Findings
+- 
 - 🏆 Advantages
+- 
 - 📷 Dashboard Screenshots
+- 
 - 👤 Author
+- 
 - 🙏 Acknowledgements
+- 
 📌 Overview
 The Myntra Sales & Business Intelligence Dashboard is a Power BI
 project created to present retail sales information in an interactive
